@@ -1,0 +1,1 @@
+In my Netflix dashboard, I tried to think of moblie first, and make it responsive to the browser window size. It's not perfect but I am starting to understand better how to program a more responsive page. 
